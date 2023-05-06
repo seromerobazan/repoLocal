@@ -9,6 +9,8 @@ Repo local se hacen cambios de manera local en @fobos nuevamente
 
 se vuelven a hacer cambios en git hub
 
+ahhhh si, pues se vuelven a hacer cambios en @fobos para hacer más pruebas
+
 
 
 samuel
